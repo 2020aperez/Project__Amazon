@@ -40,3 +40,11 @@
   margin-bottom: 15px;
   margin-top: 5px;
 }
+
+.product {
+  transition: all 0.2s ease-in-out;
+}
+
+.product:hover {
+  transform: scale(1.1);
+}
